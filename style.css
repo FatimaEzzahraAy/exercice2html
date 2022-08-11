@@ -1,0 +1,17 @@
+body{
+      text-align: center;
+      background-color: rgb(213, 227, 245);
+      font-size: medium;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{     
+      color: blue;   
+      font-family: 'Times New Roman', Times, serif;  
+}
+footer{
+      color: blue;
+      font-style: italic;
+}
+h3{
+      color: rgb(26, 26, 71);
+}
